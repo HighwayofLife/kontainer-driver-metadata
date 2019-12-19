@@ -8,3 +8,4 @@ func main() {
 	// add drivers init here
 	rke.GenerateData()
 }
+
